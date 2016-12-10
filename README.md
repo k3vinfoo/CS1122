@@ -1,6 +1,6 @@
 # CS1122
 Final Project for CS1122 
 
-Consists of 
-a network scanner: 
-, a key logger, and a file recovery program
+The network scanner scans open ports on remote host and provides its protocol type. 
+The keylogger captures user input data and sends them to a remote server. 
+The file recovery programs uses the bytes from the file header to recreate it.
